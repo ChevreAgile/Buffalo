@@ -1,0 +1,18 @@
+#include <stdlib.h>
+
+
+bool isValidString(char& basisString, char& testString);
+
+int main() {};
+
+//class definitions
+
+
+
+//function definitions
+
+bool isValidString(char& basisString, char& testString) {
+
+  
+
+};
